@@ -1,1 +1,0 @@
-// link to teach machine https://teachablemachine.withgoogle.com/models/UFEI1i1oy/
